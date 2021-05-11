@@ -1,0 +1,11 @@
+django
+PyPDF4
+tabula-py
+Pillow
+pytesseract
+pdf2image
+pdfminer
+pymongo
+dnspython
+psycopg2-binary
+airtable-python-wrapper

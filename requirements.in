@@ -1,0 +1,7 @@
+django
+djangorestframework
+google-cloud-storage
+pip-tools
+psycopg2
+crc32c
+autopep8
